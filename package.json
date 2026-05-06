@@ -1,7 +1,0 @@
-{
-  "name": "vega-scraper",
-  "version": "1.0.0",
-  "dependencies": {
-    "libsodium-wrappers": "^0.7.13"
-  }
-}
